@@ -1,5 +1,6 @@
 {
     "url": "https://github.com/nanopool/nanominer/releases/download/v1.5.3/nanominer-windows-1.5.3.zip",
+    "hash": "929fa81c86cd4b87c2c7633704d34282fb1a49ecca55e2b1669e92dfcb8e41cb",
     "version": "v1.5.3",
     "bin": "nanominer.exe",
     "shortcuts": [
