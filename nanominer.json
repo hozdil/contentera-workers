@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/nanopool/nanominer/releases/download/v1.5.3/nanominer-windows-1.5.3.zip",
+    "version": "v1.5.3",
+    "bin": "nanominer.exe",
+    "shortcuts": [
+        ["nanominer.exe", "Nanominer"]
+    ]
+}
